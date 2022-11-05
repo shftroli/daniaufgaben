@@ -1,0 +1,11 @@
+body {
+}
+.box {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  width: 30.257186081694403vh;
+  height: 22.692889561270803vh;
+  background: rgb(108,9,121);
+  background: linear-gradient(90deg, rgba(108,9,121,1) 37%, rgba(0,11,255,1) 100%);
+}
