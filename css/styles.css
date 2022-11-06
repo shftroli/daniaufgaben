@@ -1,0 +1,24 @@
+body {
+  background-color: lightBlue;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+li {
+  display: inline;
+}
+
+.list-one {
+  font-style: italic;
+}
+
+.list-two {
+  font-style: oblique;
+}
+
+.list-three {
+  font-weight: bold;
+}
